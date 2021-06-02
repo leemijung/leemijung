@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemijung&count_bg=%23613ADF&title_bg=%237D7575&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Followers](https://img.shields.io/github/followers/leemijung?style=social)
 
 # 💙 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemijung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
