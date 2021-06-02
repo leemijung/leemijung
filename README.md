@@ -6,7 +6,7 @@
 # 🤗 Career
 |        Type        |       Date       |     Contents     |     Organization     |
 |:------------------:|:----------------:|:----------------:|:--------------------:|
-|   **Education** |   2019 ~ 2021  | Human Intelligence Information Engineering | **🎓 Sangmyung University** |
+|   **Education**  |   2019.3 ~  | Human Intelligence Information Engineering | **🎓 Sangmyung University** |
 |    **Circles**   |   2021 ~  |     SK LOOKIE    |    **🌞 SK 행복나눔재단**   |
 |    **Circles**   |   2021 ~  |     INYRO    |    **💻 Sangmyung University INYRO**   |
 
